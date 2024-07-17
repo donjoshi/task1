@@ -51,7 +51,26 @@ export default function Page1() {
           </div>
         </div>
         <div className="page2">
-          jhsadf
+          <div className="bold1">
+            <h2>One-Time Secrets</h2>
+          </div>
+          <div className="text1">
+          Share sensitive information that can only be viewed one time.<br></br>
+          The perfect way to transmit passwords, credit card <br />
+          information, private keys, or other confidential data.
+          </div>
+
+          <div className="images">
+            <div className="write">
+              img1
+            </div>
+            <div className="share">
+              img2
+            </div>
+            <div className="burn">
+              img3
+            </div>
+          </div>
         </div>
       </div>
 
